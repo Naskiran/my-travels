@@ -1,0 +1,21 @@
+.pic {
+    height: 50vh;
+}
+
+.destination {
+  background-color: black;
+  font-size: 45px;
+  color: blanchedalmond;
+  justify-content: space-between;
+}
+
+.pic2 {
+  height: 50vh;
+}
+
+.destination2 {
+  background-color: orchid;
+  font-size: 45px;
+  color: black;
+  justify-content: space-between;
+}
