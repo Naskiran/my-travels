@@ -1,0 +1,11 @@
+.Lampon {
+  border-color: brown;
+  border: solid;
+  height: 80vh;
+  width: 80vh;
+  background: url(http://willi.skater.pagesperso-orange.fr/homer/travailhomer.jpg);
+  background-size: cover;
+}
+.Lampof {
+  background-color: black;
+}
